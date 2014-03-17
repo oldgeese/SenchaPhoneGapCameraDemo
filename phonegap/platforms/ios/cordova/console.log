@@ -1,0 +1,8 @@
+2014-03-16 08:56:13.198 SenchaPhoneGapCameraDemo[22900:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-16 08:56:13.774 SenchaPhoneGapCameraDemo[22900:70b] Resetting plugins due to page load.
+2014-03-16 08:56:14.150 SenchaPhoneGapCameraDemo[22900:70b] Finished load of: file:///Users/hiro/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5960647-BFDF-47E4-831A-767EB625561F/SenchaPhoneGapCameraDemo.app/www/index.html
+2014-03-16 08:56:16.295 SenchaPhoneGapCameraDemo[22900:70b] THREAD WARNING: ['Camera'] took '61.263916' ms. Plugin should use a background thread.
+2014-03-16 08:57:28.802 SenchaPhoneGapCameraDemo[23157:70b] Multi-tasking -> Device: YES, App: YES
+2014-03-16 08:57:29.291 SenchaPhoneGapCameraDemo[23157:70b] Resetting plugins due to page load.
+2014-03-16 08:57:29.706 SenchaPhoneGapCameraDemo[23157:70b] Finished load of: file:///Users/hiro/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/C5960647-BFDF-47E4-831A-767EB625561F/SenchaPhoneGapCameraDemo.app/www/index.html
+2014-03-16 08:57:31.915 SenchaPhoneGapCameraDemo[23157:70b] THREAD WARNING: ['Camera'] took '146.163086' ms. Plugin should use a background thread.
